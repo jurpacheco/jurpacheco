@@ -4,8 +4,6 @@
 
 </div>
 
-**`Estudante de Informática`**
-
 Me chamo **Juliana da Rosa Pacheco**, sou estudante do curso Técnico em Informática no IFSC. Sou apaixonada por tecnologia e estou sempre buscando aprender e desenvolver novas habilidades na área.
 
 Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho estudando durante minha formação em informática. Aqui no meu GitHub compartilho projetos, exercícios e experiências desenvolvidas ao longo dessa jornada. ♡
