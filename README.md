@@ -9,6 +9,7 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 <div align="center">
 𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 </div>
+
 ###  Linguagens e Tecnologias
 
 <div align="left">
@@ -19,9 +20,10 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
-<div align="left">
+<div align="center">
 𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 </div>
+
 ###  Estatísticas
 
 <div align="center">
@@ -32,7 +34,9 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
+<div align="center">
 𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
+</div>
 
 <div align="center">
 
@@ -40,7 +44,6 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
-𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 
 <div align="center">
 
