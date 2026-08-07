@@ -1,5 +1,8 @@
-#  Juliana da Rosa Pacheco
+<div align="center">
 
+<img src="[https://64.media.tumblr.com/8da0d273e76f657bc6c3552c26cf5d67/eda44ac58bbe2ba5-31/s540x810/fb92e2a5376b5498142439fc2c83012450aab0e2.gifv](https://media.discordapp.net/attachments/1533927963769180262/1535428306005004359/text.gif?ex=6a77ba8b&is=6a76690b&hm=b369760aee6433ad9feac4e2013201ad78a13ecb71b2f7a736f91fde2542bd00&=)" width="100%"/>
+
+</div>
 **`Estudante de Informática`**
 
 Me chamo **Juliana da Rosa Pacheco**, sou estudante do curso Técnico em Informática no IFSC. Sou apaixonada por tecnologia e estou sempre buscando aprender e desenvolver novas habilidades na área.
