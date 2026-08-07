@@ -6,7 +6,7 @@ Me chamo **Juliana da Rosa Pacheco**, sou estudante do curso Técnico em Inform�
 
 Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho estudando durante minha formação em informática. Aqui no meu GitHub compartilho projetos, exercícios e experiências desenvolvidas ao longo dessa jornada. ♡
 
----
+𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 
 ###  Linguagens e Tecnologias
 
@@ -18,7 +18,7 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
----
+𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 
 ###  Estatísticas
 
@@ -29,7 +29,8 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurpacheco&layout=compact&theme=default" height="180"/>
 
 </div>
----
+
+𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 
 <div align="center">
 
@@ -37,7 +38,7 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
----
+𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
 
 <div align="center">
 
