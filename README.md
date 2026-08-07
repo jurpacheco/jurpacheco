@@ -1,45 +1,29 @@
-# Juliana da Rosa Pacheco
+#  Juliana da Rosa Pacheco
 
 **`Estudante de Informática`**
 
-Me chamo **Juliana da Rosa Pacheco** e sou estudante do curso Técnico em Informática no **IFSC**. Sou apaixonada por tecnologia, programação e criação de projetos, e estou construindo minha jornada na área aos poucos, aprendendo e experimentando coisas novas. 
+Me chamo **Juliana**, sou estudante do curso Técnico em Informática no IFSC. Sou apaixonada por tecnologia e estou sempre buscando aprender coisas novas na área de programação e desenvolvimento.
 
-Atualmente, meus principais estudos estão voltados para **Python e SQL**, além de conceitos de programação, banco de dados e desenvolvimento de software.
+Atualmente, meus principais conhecimentos são **Python e SQL**, áreas que venho estudando e utilizando durante minha formação. Este GitHub reúne alguns dos projetos, exercícios e experiências que fazem parte da minha jornada na tecnologia. 
 
----
 
-### ୨୧ Linguagens e Tecnologias
 
-<div align="left">
+###  Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+</p>
 
-</div>
 
----
-
-### ♡ Tecnologias que estou estudando
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Python-F8D7E5?style=for-the-badge&logo=python&logoColor=8B5E83" />
-<img src="https://img.shields.io/badge/SQL-F8D7E5?style=for-the-badge&logo=mysql&logoColor=8B5E83" />
-
-</div>
-
----
 
 ###  Estatísticas
 
-<div align="center">
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&title_color=d96b9b&icon_color=d96b9b&text_color=8b5e83&bg_color=fff5fa&border_color=f3c1d8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&title_color=d96b9b&text_color=8b5e83&bg_color=fff5fa&border_color=f3c1d8"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=rose_pine"/>
-
-</div>
-
----
 
 <div align="center">
 
