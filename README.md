@@ -6,8 +6,9 @@ Me chamo **Juliana da Rosa Pacheco**, sou estudante do curso Técnico em Inform�
 
 Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho estudando durante minha formação em informática. Aqui no meu GitHub compartilho projetos, exercícios e experiências desenvolvidas ao longo dessa jornada. ♡
 
+<div align="center">
 𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
-
+</div>
 ###  Linguagens e Tecnologias
 
 <div align="left">
@@ -18,8 +19,9 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 </div>
 
+<div align="left">
 𓈒⠀  ⠀ 𝅄⠀   ׅ⠀⠀𓈒⠀   ࣪ ⠀ 𝅄⠀   ׅ⠀  𓈒 ⠀   ׅ  
-
+</div>
 ###  Estatísticas
 
 <div align="center">
