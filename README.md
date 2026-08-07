@@ -15,9 +15,7 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 <div align="left">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGQYEsNXZ7k5DfY02rDmyiyWNOCOKn8qn_m1ONjhEv63X_amSdIBIUB0&s=10" width="60" height="60"/>
-Python
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQi3Bx_zM8wE2_E_-LkqrsskQy2tflsdWUyq0kXGAzeVN9nJPEIWVKNBEK&s=10" width="60" height="60"/>
-MySQL
 </div>
 
 <div align="center">
