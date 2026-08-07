@@ -22,14 +22,13 @@ Atualmente, meus principais conhecimentos são **Python** e **MySQL**, que venho
 
 ###  Estatísticas
 
-<div align="left">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurpacheco&show_icons=true&include_all_commits=true&count_private=true&title_color=d96b9b&icon_color=d96b9b&text_color=8b5e83&bg_color=fff5fa&border_color=f3c1d8"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jurpacheco&show_icons=true&theme=default" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurpacheco&layout=compact&langs_count=7&title_color=d96b9b&text_color=8b5e83&bg_color=fff5fa&border_color=f3c1d8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurpacheco&layout=compact&theme=default" height="180"/>
 
 </div>
-
 ---
 
 <div align="center">
